@@ -23,7 +23,7 @@ export const Login = () => {
         }
         else{
             try {
-                await createUserWithEmailAndPassword(auth, correo, contraseña)
+                await signInWithEmailAndPassword(auth, correo, contraseña)
             } catch (error) {
                 alert("El correo o la contraseña es incorrecta!")
                 
