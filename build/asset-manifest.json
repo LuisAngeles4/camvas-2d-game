@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/camvas-2d-game/build/static/css/main.045dc88f.css",
+    "main.js": "/camvas-2d-game/build/static/js/main.6a4544ab.js",
+    "static/js/453.4d7f1e72.chunk.js": "/camvas-2d-game/build/static/js/453.4d7f1e72.chunk.js",
+    "static/media/login-img.jpg": "/camvas-2d-game/build/static/media/login-img.d9def33b2cd6cffda8ea.jpg",
+    "static/media/profile-img.jpg": "/camvas-2d-game/build/static/media/profile-img.cc5e2450f5a074beee67.jpg",
+    "index.html": "/camvas-2d-game/build/index.html",
+    "main.045dc88f.css.map": "/camvas-2d-game/build/static/css/main.045dc88f.css.map",
+    "main.6a4544ab.js.map": "/camvas-2d-game/build/static/js/main.6a4544ab.js.map",
+    "453.4d7f1e72.chunk.js.map": "/camvas-2d-game/build/static/js/453.4d7f1e72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045dc88f.css",
+    "static/js/main.6a4544ab.js"
+  ]
+}
