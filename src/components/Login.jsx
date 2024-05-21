@@ -28,7 +28,7 @@ export const Login = () => {
                 alert("El correo o la contraseña es incorrecta!")
                 
             }
-            await signInWithEmailAndPassword(auth, correo, contraseña)
+            
         }
 
     }
